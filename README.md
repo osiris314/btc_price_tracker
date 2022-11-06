@@ -20,5 +20,4 @@ Tracking price after alert
 
 *comes with a notification icon and an audible alert sound!
 
-
-You can change the alert sound by downloading your own sound file
+You can change the alert sound by replacing sound file
